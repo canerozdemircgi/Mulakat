@@ -1,0 +1,61 @@
+/* Boilerplate Soru */
+if (condition1) {
+    for (int i = 0; i < 1000; ++i) {
+        if (conditiona) {
+            xxx(i);
+            yyy(i);
+            zzz(i);
+            www(i);
+        } else if (conditionb) {
+            xxx(i + 1);
+            yyy(i + 2);
+            zzz(i + 3);
+            www(i + 4);
+        }
+    }
+}
+else if (condition2) {
+    for (int i = 999; i >= 0; --i) {
+        if (conditiona) {
+            xxx(i);
+            yyy(i);
+            zzz(i);
+            www(i);
+        } else if (conditionb) {
+            xxx(i + 1);
+            yyy(i + 2);
+            zzz(i + 3);
+            www(i + 4);
+        }
+    }
+}
+else if (condition3) {
+    for (int i = 0; i < 1500; i += 2) {
+        if (conditiona) {
+            xxx(i);
+            yyy(i);
+            zzz(i);
+            www(i);
+        } else if (conditionb) {
+            xxx(i + 1);
+            yyy(i + 2);
+            zzz(i + 3);
+            www(i + 4);
+        }
+    }
+}
+else if (condition4) {
+    for (int i = 2499; i >= 0; i -= 3) {
+        if (conditiona) {
+            xxx(i);
+            yyy(i);
+            zzz(i);
+            www(i);
+        } else if (conditionb) {
+            xxx(i + 1);
+            yyy(i + 2);
+            zzz(i + 3);
+            www(i + 4);
+        }
+    }
+}
